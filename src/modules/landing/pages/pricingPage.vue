@@ -3,12 +3,12 @@
     <div class="">
       <div class="text-center font-semibold">
         <h1 class="text-5xl">
-          <span class="text-blue-700 tracking-wide">Flexible </span>
-          <span>Plans</span>
+          <span class="text-pink-600 tracking-wide">Flexible </span>
+          <span>Waste of ur money</span>
         </h1>
         <p class="pt-6 text-xl text-gray-400 font-normal w-full px-8 md:w-full">
-          Choose a plan that works best for you and<br />
-          your team.
+          Choose how u wanna sell<br />
+          me ur soul.
         </p>
       </div>
       <div class="pt-24 flex flex-row">
@@ -36,7 +36,7 @@
             </p>
 
             <a href="#" class="">
-              <p class="w-full py-4 bg-blue-600 mt-8 rounded-xl text-white">
+              <p class="w-full py-4 bg-pink-600 mt-8 rounded-xl text-white">
                 <span class="font-medium"> Choose Plan </span>
                 <span class="pl-2 material-icons align-middle text-sm"> east </span>
               </p>
@@ -69,14 +69,14 @@
             </p>
 
             <a href="#" class="">
-              <p class="w-full py-4 bg-blue-600 mt-8 rounded-xl text-white">
+              <p class="w-full py-4 bg-pink-600 mt-8 rounded-xl text-white">
                 <span class="font-medium"> Choose Plan </span>
                 <span class="pl-2 material-icons align-middle text-sm"> east </span>
               </p>
             </a>
           </div>
           <div class="absolute top-4 right-4">
-            <p class="bg-blue-700 font-semibold px-4 py-1 rounded-full uppercase text-xs">
+            <p class="bg-pink-700 font-semibold px-4 py-1 rounded-full uppercase text-xs">
               Popular
             </p>
           </div>
@@ -105,7 +105,7 @@
             </p>
 
             <a href="#" class="">
-              <p class="w-full py-4 bg-blue-600 mt-8 rounded-xl text-white">
+              <p class="w-full py-4 bg-pink-600 mt-8 rounded-xl text-white">
                 <span class="font-medium"> Choose Plan </span>
                 <span class="pl-2 material-icons align-middle text-sm"> east </span>
               </p>

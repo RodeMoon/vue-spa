@@ -40,9 +40,9 @@
           ></textarea>
         </div>
         <button
-          class="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg"
+          class="text-white bg-pink-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg"
         >
-          Button
+          Send
         </button>
         <p class="text-xs text-gray-500 mt-3">
           Learn some Cantonese, it will help you in the future.
