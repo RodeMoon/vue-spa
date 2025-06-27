@@ -3,3 +3,8 @@
 html, body {
   background-color: #FFF0F5; /* Lavender Blush */
 }
+
+.router-link-exact-active {
+  @apply underline font-semibold transition-all;
+  color: #FF69B4; /* Hot Pink */
+}

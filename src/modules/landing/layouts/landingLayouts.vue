@@ -26,7 +26,6 @@
             :key="link.name"
             :to="link.to ? link.to : { name: link.name }"
             class="text-gray-700 hover:text-pink-500 font-medium transition-colors"
-            active-class="text-pink-400 underline"
           >
             {{ link.label }}
           </RouterLink>
